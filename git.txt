@@ -1,0 +1,19 @@
+git命令
+
+git clone url 建立本次厂库
+
+git add . 发绿卡
+
+git commit -am '' 加备注并提交本地厂库
+
+git pull 拉取代码
+
+git push 提交远程厂库
+ 
+git branch 查看分支 
+
+git checkout -b branchName 创建分支并切换到分支
+
+git checkout (切换时空) 切换分支
+
+git reset --hard 版本  回退指定版本
